@@ -1,2 +1,2 @@
 # Myntra-clone-React
-# step by step clear concept
+# step by step define function
